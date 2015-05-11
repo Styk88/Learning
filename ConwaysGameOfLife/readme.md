@@ -94,4 +94,5 @@ Ping Pong TDD is a simple practice:
   * Dev 2 writes the next test and sees that it fails.
   * Dev 1 implements the code needed to pass the test.
 
-If this is your first time, try pairing with someone you don't normally work with.
+Based on youtube video:
+https://www.youtube.com/watch?v=NKIa0Gd7id0&noredirect=1
